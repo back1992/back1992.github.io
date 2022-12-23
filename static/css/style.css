@@ -1102,3 +1102,11 @@ section {
     padding-right: 20px 15px;
   }
 }
+
+
+.my_text
+{
+    font-family: 'Ma Shan Zheng', cursive;
+    font-size:      40px;
+    font-weight:    bold;
+}
